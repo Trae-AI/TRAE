@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-Github Issues 不再解答问题，请直接到官方社区https://forum.trae.cn/提问。
+Github Issues 不再解答问题，请直接到官方社区forum.trae.cn提问
